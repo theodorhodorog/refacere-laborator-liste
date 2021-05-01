@@ -1,0 +1,5 @@
+georgescu 7
+popescu 9
+ionescu 10
+petrescu 6
+marinescu 7

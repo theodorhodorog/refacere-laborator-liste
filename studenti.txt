@@ -1,0 +1,10 @@
+cristian georgescu 9 informatica 7
+marius popescu 10 matematica 8
+marius popescu 10 romana 9
+andreea ionescu 12 engleza 10
+andreea ionescu 12 matematica 10
+andreea ionescu 12 informatica 10
+mihai petrescu 10 matematica 4
+mihai petrescu 10 informatica 6
+ioana marinescu 11 romana 7
+clara mihailescu 11 informatica 4
